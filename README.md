@@ -1,7 +1,8 @@
 <h1 >Hi there👋!</h1>
-<h3 align="center">I am [Dinesh](https://www.linkedin.com/in/dinesht-0006-/), Highly Motivated and dedicated DevOps Engineer, my primary focus 🎯 is to enhance the development process, ensure seamless deployment, and automate the deployment, scaling, and maintenance of highly available and fault-tolerant cloud infrastructure 🚀.</h3>
 
-<h3 align="center">I am [Dinesh](https://www.linkedin.com/in/dinesht-0006-/), Highly motivated and dedicated DevOps Engineer with a strong foundation in computer science fundamentals, containerization, cloud technologies, and DevOps methodologies. Skilled in optimizing and monitoring CI/CD pipelines and maintaining highly available, fault-tolerant cloud infrastructure.</h3>
+I am [Dinesh](https://www.linkedin.com/in/dinesht-0006-/), Highly Motivated and dedicated DevOps Engineer, my primary focus 🎯 is to enhance the development process, ensure seamless deployment, and automate the deployment, scaling, and maintenance of highly available and fault-tolerant cloud infrastructure 🚀.
+
+I am [Dinesh](https://www.linkedin.com/in/dinesht-0006-/), Highly motivated and dedicated DevOps Engineer with a strong foundation in computer science fundamentals, containerization, cloud technologies, and DevOps methodologies. Skilled in optimizing and monitoring CI/CD pipelines and maintaining highly available, fault-tolerant cloud infrastructure.
 
 
 
