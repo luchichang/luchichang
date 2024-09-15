@@ -1,6 +1,6 @@
 <h1 >Hi there👋!</h1>
 
-     I am [Dinesh](https://www.linkedin.com/in/dinesht-0006-/), Highly Motivated and dedicated DevOps Engineer, my primary focus 🎯 is to enhance the development process, ensure seamless deployment, and automate the deployment, scaling, and maintenance of highly available and fault-tolerant cloud infrastructure 🚀.
+I am [Dinesh](https://www.linkedin.com/in/dinesht-0006-/), Highly Motivated and dedicated DevOps Engineer, my primary focus 🎯 is to enhance the development process, ensure seamless deployment, and automate the deployment, scaling, and maintenance of highly available and fault-tolerant cloud infrastructure 🚀.
 
 I mostly work with CICD Pipeline Automation, Infrastructure as Code, K8s Orchestrated Deployment, and Cloud based technologies. 🚀
 
