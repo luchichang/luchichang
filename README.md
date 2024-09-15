@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dinesh T!</h1>
+<h1 >Hi there👋!</h1>
 <h3 align="center">Highly Motivated and dedicated DevOps Engineer, my primary focus 🎯 is to enhance the development process, ensure seamless deployment, and automate the deployment, scaling, and maintenance of highly available and fault-tolerant cloud infrastructure 🚀.</h3>
 
 
