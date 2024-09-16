@@ -1,18 +1,55 @@
-<h1 >Hi there👋!</h1>
+# Hi there, I'm Dinesh 👋
 
-I am [Dinesh](https://www.linkedin.com/in/dinesht-0006-/), Highly Motivated and dedicated DevOps Engineer, my primary focus 🎯 is to enhance the development process, ensure seamless deployment, and automate the deployment, scaling, and maintenance of highly available and fault-tolerant cloud infrastructure 🚀.
+I am a passionate **DevOps Engineer** focused on optimizing development processes, automating deployments, and creating scalable, resilient cloud infrastructures. My goal is to streamline delivery pipelines and enhance the reliability of distributed systems through efficient automation. 🚀
 
-I mostly work with CICD Pipeline Automation, Infrastructure as Code, K8s Orchestrated Deployment, and Cloud based technologies. 🚀
+![DevOps Automation](https://media.giphy.com/media/fwbzI2kV3Qrlpkh59e/giphy.gif)
 
+---
 
+## 🌐 What I Do
 
+I specialize in automating **CI/CD pipelines**, leveraging **Infrastructure as Code (IaC)** with tools like Terraform, and deploying microservices in containerized environments orchestrated by **Kubernetes**. My core skills lie in:
 
+- Building and managing **highly available cloud infrastructure**
+- Automating deployments with **Jenkins, GitLab CI**, and more
+- Orchestrating containerized services with **Kubernetes**
+- Monitoring and scaling cloud resources for **performance and reliability**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-### 📫 How to reach me?
+## 🔧 Languages & Tools I Use
 
- - Visit my [Website]() 🌐
- - Connect with me on [LinkedIn](https://www.linkedin.com/in/dinesht-0006-/) 👨🏻‍💻
- - Shoot Me an [Email](mailto:dinesht0006@gmail.com) 💌
+Here’s a quick look at the tools and technologies I work with:
+
+![AWS](https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg) 
+![Docker](https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg) 
+![Kubernetes](https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg) 
+![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg) 
+![Bash](https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg) 
+![Grafana](https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg) 
+![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg) 
+![NGINX](https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg) 
+
+---
+
+## 📈 My Workflow
+
+Here’s a glimpse of my typical workflow:
+
+![DevOps Pipeline](https://media.giphy.com/media/UqZ4imFIwTlEY/giphy.gif)
+
+- Plan and write Infrastructure as Code (IaC)
+- Automate testing and deployment pipelines
+- Monitor infrastructure with observability tools
+- Collaborate closely with developers to improve operational efficiency
+
+---
+
+## 📫 How to reach me?
+
+If you'd like to connect, feel free to:
+
+- Visit my [Website]()
+- Connect on [LinkedIn](https://www.linkedin.com/in/dinesht-0006-/)
+- Email me at [dinesht0006@gmail.com](mailto:dinesht0006@gmail.com)
+
