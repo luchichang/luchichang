@@ -11,7 +11,7 @@ I am a passionate **DevOps Engineer** focuses on optimizing development processe
 I specialize in automating **CI/CD pipelines**, leveraging **Infrastructure as Code (IaC)** with tools like Terraform, and deploying microservices in containerized environments orchestrated by **Kubernetes**. My core skills lie in:
 
 - Building and managing **highly available cloud infrastructure**
-- Automating deployments with **Jenkins, GitLab CI**, and more
+- Automating deployments with **Jenkins**, and more
 - Orchestrating containerized services with **Kubernetes**
 - Monitoring and scaling cloud resources for **performance and reliability**
 
