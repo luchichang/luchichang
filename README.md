@@ -11,7 +11,7 @@
 
 ## 🌐 What I Do
 
-I specialize in automating **CI/CD pipelines**, leveraging **Infrastructure as Code (IaC)** with tools like Terraform, and deploying microservices in containerized environments orchestrated by **Kubernetes**. My core skills lie in:
+I specialize in automating **CI/CD pipelines**, leveraging **Infrastructure as Code (IaC)** with tools like Terraform, and deploying microservices in containerized environments orchestrated by **Kubernetes**. 
 
 - Building and managing **highly available cloud infrastructure**
 - Automating deployments with **Jenkins**, and more
@@ -24,32 +24,25 @@ I specialize in automating **CI/CD pipelines**, leveraging **Infrastructure as C
 
 Here’s a quick look at the tools and technologies I work with:
 
-* __CI/CD Pipeline__
-     
-<div align="center">
-  <img src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://automatenow.io/test-automation-with-jenkins/)" alt="Jenkins" width="100" height="100"/>
-</div>
+* __CI/CD Pipeline__     
+    Jenkins, Github Action, AWS Code Pipeline
 * __Infrastructure as Code (IaC)__
+     Terraform, Boto3 
 * __Cloud Infrastructure__
+      AWS
 * __Containerization and Orchestration__
+     Docker, Docker swarm, Kubernetes
 * __Monitoring and Logging__
+      Promotheus, Graffana
 * __Automation and Scripting__
-
-![AWS](https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg) 
-![Docker](https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg) 
-![Kubernetes](https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg) 
-![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg) 
-![Bash](https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg) 
-![Grafana](https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg) 
-![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg) 
-![NGINX](https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg) 
+      Bash,  Python
 
 ---
 
 
 ## 📫 How to reach me?
 
-If you'd like to connect, feel free to:
+for collaboration, feel free to reach me:
 
 - Visit my [Website]()
 - Connect on [LinkedIn](https://www.linkedin.com/in/dinesht-0006-/)
