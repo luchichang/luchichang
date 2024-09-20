@@ -20,22 +20,33 @@ I specialize in automating **CI/CD pipelines**, leveraging **Infrastructure as C
 
 ---
 
-## 🔧 Languages & Tools I Use
+## 🔧 Tools I Use
 
-Here’s a quick look at the tools and technologies I work with:
+DevOps Tools and technologies work in day in and day out:
 
-* __CI/CD Pipeline__     
-    Jenkins, Github Action, AWS Code Pipeline
-* __Infrastructure as Code (IaC)__
-     Terraform, Boto3 
-* __Cloud Infrastructure__
-      AWS
-* __Containerization and Orchestration__
-     Docker, Docker swarm, Kubernetes
-* __Monitoring and Logging__
-      Promotheus, Graffana
-* __Automation and Scripting__
-      Bash,  Python
+* **CI/CD Pipeline**  
+  Jenkins <img src="https://www.jenkins.io/images/logos/jenkins.png" height="100" width="100"/>  
+  AWS Code Pipeline <img src="https://d1.awsstatic.com/logos/aws_logo_smile_1200x630.png" height="100" width="100"/>  
+  
+* **Infrastructure as Code (IaC)**  
+  Terraform <img src="https://www.terraform.io/assets/images/press/logo.svg" height="100" width="100"/>  
+  Boto3 <img src="https://boto3.amazonaws.com/v1/documentation/api/latest/_static/boto3-logo.png" height="100" width="100"/>  
+  
+* **Cloud Infrastructure**  
+  AWS <img src="https://d1.awsstatic.com/logos/aws_logo_smile_1200x630.png" height="100" width="100"/>  
+ 
+* **Containerization and Orchestration**  
+  Docker <img src="https://www.docker.com/wp-content/uploads/2022/03/logo.svg" height="100" width="100"/>   
+  Kubernetes <img src="https://kubernetes.io/images/kubernetes_logo_white.svg" height="100" width="100"/>  
+ 
+*  **Monitoring and Logging**  
+  Prometheus <img src="https://prometheus.io/assets/prometheus_logo.svg" height="100" width="100"/>  
+  Grafana <img src="https://grafana.com/static/assets/img/grafana_icon.svg" height="100" width="100"/>
+  
+* **Automation and Scripting**  
+  Bash <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Bash_logo.svg/1200px-Bash_logo.svg.png" height="100" width="100"/>  
+  ![Bash GIF](https://media.giphy.com/media/3o7btX4aI2VjQXZFlW/giphy.gif)  
+  Python <img src="https://www.python.org/community/logos/python-logo-generic.svg" height="100" width="100"/>  
 
 ---
 
