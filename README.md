@@ -1,8 +1,8 @@
 # Hi there, I'm Dinesh 👋
 
-I am a passionate **DevOps Engineer** focuses on optimizing development processes, automating deployments, and creating scalable, resilient cloud infrastructures. My goal is to streamline delivery pipelines and enhance the reliability of distributed systems through efficient automation. 🚀
+I am a passionate **DevOps Engineer** focused on optimizing development processes, automating deployments, and creating scalable, resilient cloud infrastructures. My goal is to streamline delivery pipelines and enhance the reliability of distributed systems through efficient automation. 🚀
 
-![DevOps Automation](https://media.giphy.com/media/fwbzI2kV3Qrlpkh59e/giphy.gif)
+![DevOps Automation](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 ---
 
@@ -32,7 +32,6 @@ Here’s a quick look at the tools and technologies I work with:
 
 ---
 
-
 ## 📫 How to reach me?
 
 If you'd like to connect, feel free to:
@@ -40,4 +39,3 @@ If you'd like to connect, feel free to:
 - Visit my [Website]()
 - Connect on [LinkedIn](https://www.linkedin.com/in/dinesht-0006-/)
 - Email me at [dinesht0006@gmail.com](mailto:dinesht0006@gmail.com)
-
