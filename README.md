@@ -22,31 +22,31 @@ I specialize in automating **CI/CD pipelines**, leveraging **Infrastructure as C
 
 ## 🔧 Tools I Use
 
-DevOps Tools and technologies work in day in and day out:
+DevOps Tools and technologies I work with day in and day out,
 
 * **CI/CD Pipeline**  
-  Jenkins <img src="https://www.jenkins.io/images/logos/jenkins.png" height="100" width="100"/>  
-  AWS Code Pipeline <img src="https://d1.awsstatic.com/logos/aws_logo_smile_1200x630.png" height="100" width="100"/>  
+  Jenkins <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1200px-Jenkins_logo.svg.png" height="100" width="100"/>  
+  AWS Code Pipeline <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" height="100" width="100"/>  
   
 * **Infrastructure as Code (IaC)**  
-  Terraform <img src="https://www.terraform.io/assets/images/press/logo.svg" height="100" width="100"/>  
-  Boto3 <img src="https://boto3.amazonaws.com/v1/documentation/api/latest/_static/boto3-logo.png" height="100" width="100"/>  
+  Terraform <img src="https://www.datocms-assets.com/2885/1629941242-logo-terraform-main.png" height="100" width="100"/>  
+  Boto3 <img src="https://user-images.githubusercontent.com/1513140/90444616-3a5dff00-e08e-11ea-9210-35c47f1945ea.png" height="100" width="100"/>  
   
 * **Cloud Infrastructure**  
-  AWS <img src="https://d1.awsstatic.com/logos/aws_logo_smile_1200x630.png" height="100" width="100"/>  
+  AWS <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" height="100" width="100"/>  
  
 * **Containerization and Orchestration**  
-  Docker <img src="https://www.docker.com/wp-content/uploads/2022/03/logo.svg" height="100" width="100"/>   
-  Kubernetes <img src="https://kubernetes.io/images/kubernetes_logo_white.svg" height="100" width="100"/>  
+  Docker <img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" height="100" width="100"/>   
+  Kubernetes <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg" height="100" width="100"/>  
  
-*  **Monitoring and Logging**  
-  Prometheus <img src="https://prometheus.io/assets/prometheus_logo.svg" height="100" width="100"/>  
-  Grafana <img src="https://grafana.com/static/assets/img/grafana_icon.svg" height="100" width="100"/>
+* **Monitoring and Logging**  
+  Prometheus <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Prometheus_software_logo.svg/1200px-Prometheus_software_logo.svg.png" height="100" width="100"/>  
+  Grafana <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Grafana_logo.svg" height="100" width="100"/>
   
 * **Automation and Scripting**  
-  Bash <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Bash_logo.svg/1200px-Bash_logo.svg.png" height="100" width="100"/>  
+  Bash <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1200px-Bash_Logo_Colored.svg.png" height="100" width="100"/>  
   ![Bash GIF](https://media.giphy.com/media/3o7btX4aI2VjQXZFlW/giphy.gif)  
-  Python <img src="https://www.python.org/community/logos/python-logo-generic.svg" height="100" width="100"/>  
+  Python <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" height="100" width="100"/>
 
 ---
 
