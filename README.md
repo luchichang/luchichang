@@ -1,9 +1,6 @@
 # Hi there, I'm Dinesh 👋
 
-I am a passionate **DevOps Engineer** focused on optimizing development processes, automating deployments, and creating scalable, resilient cloud infrastructures. My goal is to streamline delivery pipelines and enhance the reliability of distributed systems through efficient automation. 🚀
-# Hi there, I'm Dinesh 👋
-
-I am a passionate **DevOps Engineer** focuses on optimizing development processes, automating deployments, and creating scalable, resilient cloud infrastructures. My goal is to streamline delivery pipelines and enhance the reliability of distributed systems through efficient automation. 🚀
+ passionate **DevOps Engineer** focuses on optimizing development processes, automating deployments, and creating scalable, resilient cloud infrastructures. My goal is to streamline delivery pipelines and enhance the reliability of distributed systems through efficient automation. 🚀
 
 
 <div align="center">
@@ -37,6 +34,7 @@ Here’s a quick look at the tools and technologies I work with:
 * __Containerization and Orchestration__
 * __Monitoring and Logging__
 * __Automation and Scripting__
+
 ![AWS](https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg) 
 ![Docker](https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg) 
 ![Kubernetes](https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg) 
