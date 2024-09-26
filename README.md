@@ -34,7 +34,7 @@ DevOps Tools and technologies I work with day in and day out,
   AWS <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" height="50" width="50"/>  
  
 * **Containerization and Orchestration**  
-  Docker <img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" height="50" width="50"/>   Kubernetes <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg" height="50" width="50"/>  
+  Docker <img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" height="50" width="50"/>   Kubernetes <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg" height="50" width="50"/>  ECS EKS 
  
 * **Monitoring and Logging**  
   Prometheus <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Prometheus_software_logo.svg/1200px-Prometheus_software_logo.svg.png" height="50" width="50"/> Grafana <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Grafana_logo.svg" height="50" width="50"/>
