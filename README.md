@@ -25,7 +25,7 @@ I specialize in automating **CI/CD pipelines**, leveraging **Infrastructure as C
 DevOps Tools and technologies I work with day in and day out,
 
 * **CI/CD Pipeline**  
-  Jenkins <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1200px-Jenkins_logo.svg.png" height="50" width="50"/>  AWS Code Pipeline <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" height="50" width="50"/>  
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1200px-Jenkins_logo.svg.png" height="50" width="50"/>  AWS Code Pipeline <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" height="50" width="50"/>  
   
 * **Infrastructure as Code (IaC)**  
   Terraform <img src="https://www.datocms-assets.com/2885/1629941242-logo-terraform-main.png" height="50" width="50"/>  Boto3 <img src="https://user-images.githubusercontent.com/1513140/90444616-3a5dff00-e08e-11ea-9210-35c47f1945ea.png" height="50" width="50"/>  
