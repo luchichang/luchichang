@@ -44,6 +44,7 @@ DevOps Tools and technologies I work with day in and day out,
 
 ---
 
+<img src="https://www.credly.com/badges/208f4cf8-dc44-43be-9687-f12eb5bc2729/public_url"/>
 
 ## 📫 How to reach me?
 
