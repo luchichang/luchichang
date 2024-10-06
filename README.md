@@ -52,6 +52,9 @@ for collaboration, feel free to reach me:
 
 - Visit my [Website]()
 - Connect on [LinkedIn](https://www.linkedin.com/in/dinesht-0006-/)
+- Connect on [X](https://x.com/Dinesht0006)
+- Tech Blogs [Hashnode](https://hashnode.com/@DineshT0006)
 - Email me at [dinesht0006@gmail.com](mailto:dinesht0006@gmail.com)
+
 
 
