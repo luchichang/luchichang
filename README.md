@@ -42,10 +42,6 @@ DevOps Tools and technologies I work with day in and day out,
 * **Automation and Scripting**  
   Bash <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1200px-Bash_Logo_Colored.svg.png" height="50" width="50"/>  Python <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" height="50" width="50"/>
 
----
-
-<img src="https://www.credly.com/badges/208f4cf8-dc44-43be-9687-f12eb5bc2729/public_url"/>
-
 ## 📫 How to reach me?
 
 for collaboration, feel free to reach me:
